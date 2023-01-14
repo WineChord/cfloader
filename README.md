@@ -1,5 +1,5 @@
 # cfloader
-Load problem from the given link of codeforces.com and set up the initial code.
+Load problem from the given link from [codeforces](https://codeforces.com/problemset) and set up the initial code.
 
 ## Usage:
 
